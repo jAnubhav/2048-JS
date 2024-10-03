@@ -23,7 +23,7 @@ The 2048 game is a sliding puzzle where you combine matching numbered tiles by s
 
 1. Clone this repository.
     ```bash
-    git clone https://github.com/your-username/2048-game.git
+    git clone https://github.com/jAnubhav/2048-JS
     ```
 2. Open `index.html` in your browser to start playing the game.
 
