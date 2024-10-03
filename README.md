@@ -29,13 +29,9 @@ The 2048 game is a sliding puzzle where you combine matching numbered tiles by s
 
 ### 🛠️ Technologies Used
 
-- **HTML** for the structure of the game.
-- **CSS** for styling and layout.
-- **JavaScript** for game logic, tile movement, and interactions.
-
-### 📷 Screenshots
-
-![Game Screenshot](screenshot.png)
+- **HTML**: It is used for the structure of the game.
+- **CSS**: It is used for styling and layout.
+- **JavaScript**: It is used for game logic, tile movement, and interactions.
 
 ### 💡Contributions
 Wanna contribute? Feel free to add your stuff!
